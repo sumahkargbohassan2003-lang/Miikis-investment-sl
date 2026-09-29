@@ -1,0 +1,16 @@
+{
+  "name": "mikis-website",
+  "version": "1.0.0",
+  "description": "MIKIS Investment & Construction Limited – Official Website (Frontend + Backend)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["mikis", "sierra-leone", "construction", "solar", "procurement"],
+  "author": "MIKIS Investment & Construction Limited",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=14"
+  }
+}
